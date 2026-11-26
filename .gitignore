@@ -1,0 +1,18 @@
+# Gradle & Android build artifacts
+android-app/.gradle/
+android-app/.kotlin/
+android-app/**/build/
+android-app/local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.jks
+*.keystore
+*.log
+
+# Outputs & scratch
+exports/
+scratch/
+.DS_Store
+Thumbs.db
